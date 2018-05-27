@@ -1,0 +1,7 @@
+dataset/
+log/
+.ipynb_checkpoints/
+mnist_and_inverted-0.001-conv-basic.model.data-00000-of-00001
+mnist_and_inverted-0.001-conv-basic.model.index
+mnist_and_inverted-0.001-conv-basic.model.meta
+checkpoint
